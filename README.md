@@ -1,5 +1,5 @@
 ![staffconcept logo social intents all blue](https://user-images.githubusercontent.com/93936120/140929410-cad8dfc1-0d39-485c-8fac-98a6ca68fc09.png)
-# Moin!
+# Moin moin!
 ### Das ist das Profil von Gratian Permien.
 
 
