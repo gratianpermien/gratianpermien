@@ -1,6 +1,6 @@
 # Moin!
 ### Das ist das Profil von Gratian Permien.
-
+![Icke](/Gratian 3.jpg)
 
 
 Ich bin leidenschaftlich vielbeschäftigt und erlerne im Neue Fische Web Dev Bootcamp das coden 🤖. Und wenn es nicht gerade das ist, beschäftige ich mich mit:
