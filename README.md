@@ -1,6 +1,6 @@
+![staffconcept logo social intents all blue](https://user-images.githubusercontent.com/93936120/140929410-cad8dfc1-0d39-485c-8fac-98a6ca68fc09.png)
 # Moin!
 ### Das ist das Profil von Gratian Permien.
-![Icke](./Gratian 3.jpeg)
 
 
 Ich bin leidenschaftlich vielbeschäftigt und erlerne im Neue Fische Web Dev Bootcamp das coden 🤖. Und wenn es nicht gerade das ist, beschäftige ich mich mit:
