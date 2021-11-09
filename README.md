@@ -1,4 +1,10 @@
-### Hi there 👋
+# Moin!
+### Das ist das Profil von Gratian Permien.
+
+Ich bin Musik- und Kunstfreund aus Hamburg und erlerne im Neue Fische Web Dev Bootcamp das coden. Und wenn es nicht gerade das ist, beschäftige ich mich mit Entrepreneurship, Klimaschutz und meiner Pop-Up Fläche in Hamburg.
+Hier geht's zu meinem [LinkedIn Profil](https://www.linkedin.com/in/gratian-permien-23054b108/).
+
+
 
 <!--
 **gratianpermien/gratianpermien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
