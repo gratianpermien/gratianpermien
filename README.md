@@ -1,9 +1,18 @@
 # Moin!
 ### Das ist das Profil von Gratian Permien.
 
-Ich bin Musik- und Kunstfreund aus Hamburg und erlerne im Neue Fische Web Dev Bootcamp das coden. Und wenn es nicht gerade das ist, beschäftige ich mich mit Entrepreneurship, Klimaschutz und meiner Pop-Up Fläche in Hamburg.
+Ich bin leidenschaftlich vielbeschäftigt und erlerne im Neue Fische Web Dev Bootcamp das coden 🤖. Und wenn es nicht gerade das ist, beschäftige ich mich mit:
+- Entrepreneurship
+- Klimaschutz
+- Singen
+- Festivals
+- und meiner Pop-Up Fläche in **Hamburg**.
+
 Hier geht's zu meinem [LinkedIn Profil](https://www.linkedin.com/in/gratian-permien-23054b108/).
 
+```python
+print("Goodbye, World!")
+```
 
 
 <!--
