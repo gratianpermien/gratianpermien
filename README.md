@@ -7,9 +7,9 @@ I love making music and manage a chamber choir, klubkonsonanz.de, while having i
 
 🌍 🌏 🌎 We don't change the world by simply looking at it. We change it by the way we choose to live in it.
 
-Hier geht's zu meinem [LinkedIn Profil](https://www.linkedin.com/in/gratian-permien-23054b108/).
+This way to my [LinkedIn](https://www.linkedin.com/in/gratian-permien-23054b108/).
 
-### Kleines Code-Experiment
+### My first piece of code
 ```python
 print("Ciao, amore!")
 ```
